@@ -1,4 +1,4 @@
-pycryptodome==3.7.0
+pycryptodome==3.19.1
 pyaes
 psutil
 rsa
@@ -8,5 +8,5 @@ poster
 win_inet_pton
 dnslib
 dukpy
-zeroconf==0.19.1
+zeroconf==0.149.16
 https://github.com/alxchk/urllib-auth/archive/master.zip
